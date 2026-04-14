@@ -1,8 +1,6 @@
 # Cam-Job-Connect
 CamJobConnect is a platform that connects clients with skilled service providers in Cameroon, including plumbers, electricians, software engineers, graphic designers, and more, making it easy to post jobs, find professionals, and get work done efficiently.
-# CamJobConnect
 
-CamJobConnect is a web-based platform that connects clients with skilled service providers in Cameroon such as plumbers, electricians, graphic designers, software engineers, and many more.
 
 It allows users to register, choose a role (client or service provider), browse services, hire professionals, track job progress, calculate service costs based on hourly rates, and leave reviews after job completion. The system is built as an MVP (Minimum Viable Product) that demonstrates the full workflow of a real-world service marketplace.
 
