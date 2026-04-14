@@ -45,7 +45,7 @@ Payments:
 The admin account is not manually registered like normal users. It is automatically created when the project runs for the first time using the database initialization script.
 
 Default admin credentials:
-- Email: admin@camjobconnect.com  
+- Email: camjobconnect@gmail.com  
 - Password: admin123
 
 The system checks if an admin exists in the database, and if not, it automatically creates one during setup.
